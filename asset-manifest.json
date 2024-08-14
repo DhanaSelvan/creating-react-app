@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/DhanaSelvan/creating-react-app.git/static/css/main.fc2be6e6.css",
-    "main.js": "/DhanaSelvan/creating-react-app.git/static/js/main.3dc884f8.js",
-    "static/js/453.eacd2753.chunk.js": "/DhanaSelvan/creating-react-app.git/static/js/453.eacd2753.chunk.js",
-    "index.html": "/DhanaSelvan/creating-react-app.git/index.html",
-    "main.fc2be6e6.css.map": "/DhanaSelvan/creating-react-app.git/static/css/main.fc2be6e6.css.map",
-    "main.3dc884f8.js.map": "/DhanaSelvan/creating-react-app.git/static/js/main.3dc884f8.js.map",
-    "453.eacd2753.chunk.js.map": "/DhanaSelvan/creating-react-app.git/static/js/453.eacd2753.chunk.js.map"
+    "main.css": "/creating-react-app/static/css/main.fc2be6e6.css",
+    "main.js": "/creating-react-app/static/js/main.515dc0bb.js",
+    "static/js/453.eacd2753.chunk.js": "/creating-react-app/static/js/453.eacd2753.chunk.js",
+    "index.html": "/creating-react-app/index.html",
+    "main.fc2be6e6.css.map": "/creating-react-app/static/css/main.fc2be6e6.css.map",
+    "main.515dc0bb.js.map": "/creating-react-app/static/js/main.515dc0bb.js.map",
+    "453.eacd2753.chunk.js.map": "/creating-react-app/static/js/453.eacd2753.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fc2be6e6.css",
-    "static/js/main.3dc884f8.js"
+    "static/js/main.515dc0bb.js"
   ]
 }
