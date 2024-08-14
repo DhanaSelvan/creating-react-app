@@ -1,0 +1,23 @@
+header{
+    width: 80%;
+    margin: auto;
+    padding: 16px;
+}
+
+.title {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.list {
+    display: flex;
+    list-style-type: none;
+    gap: 32px;
+    justify-content: space-between;
+}
+
+.list li {
+    border-top: 5px solid black;
+    width: 150px;
+    text-align: center;
+}
